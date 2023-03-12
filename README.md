@@ -1,6 +1,7 @@
 # AcharLogic
-[![AcharLogic Logo](https://github.com/AcharLogic/.github/blob/main/assets/logo.png?raw=true)](https://www.acharlogic.com/)
-
+<p align="center">
+<img src="https://github.com/AcharLogic/.github/blob/main/assets/logo.png?raw=true" height="250">
+</p>
 ## Introduction
 AcharLogic is a technology research company based in Nepal. We are dedicated to creating innovative solutions in the field of artificial intelligence, machine learning, and data science.
 
