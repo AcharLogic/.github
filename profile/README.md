@@ -1,6 +1,6 @@
 # AcharLogic
 <p align="center">
-<img src="https://github.com/AcharLogic/.github/blob/main/assets/logo.png?raw=true" height="250">
+<img src="https://github.com/AcharLogic/.github/blob/main/assets/logo.png?raw=true" height="250" alt="Logo image of AcharLogic">
 </p>
 
 ## Introduction
